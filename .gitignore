@@ -272,5 +272,9 @@ TSWLatexianTemp*
 # standalone packages
 *.sta
 
+# sublime env
+*.sublime-project
+*.sublime-workspace
+
 # Makeindex log files
 *.lpz
